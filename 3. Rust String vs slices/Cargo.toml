@@ -1,0 +1,7 @@
+[package]
+
+name = ['rust-string-vs-slices']
+version = [0.1.0]
+author = ['Divyam Soni', '<divyam.8116@gmail.com>']
+
+[dependencies]
