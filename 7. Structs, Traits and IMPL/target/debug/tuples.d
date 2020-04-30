@@ -1,0 +1,1 @@
+D:\Study\RustLang\7.\ Structs,\ Traits\ and\ IMPL\target\debug\tuples.exe: D:\Study\RustLang\7.\ Structs,\ Traits\ and\ IMPL\src\main.rs D:\Study\RustLang\7.\ Structs,\ Traits\ and\ IMPL\src\random_info.rs
