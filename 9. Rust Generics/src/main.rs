@@ -1,15 +1,3 @@
-// Created in background during compile time
-// No runtime cost!!
-
-// struct Point{
-//     x: i32,
-//     y: i32,
-// }
-
-// struct Point{
-//     x: f64,
-//     y: f64,
-// }
 struct MyStruct<T, U>
 where T: std::fmt::Debug,
       U: std::fmt::Debug{
